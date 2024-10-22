@@ -5,87 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="897c0560-fd06-445c-adeb-2bf8aa7f2ccd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/Assets/AWS.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/Assets/AWS.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/Assets/AWS.png" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/Assets/AWS.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/Assets/Alison.png" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/Assets/Alison.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/Assets/Azure.png" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/Assets/Azure.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/Assets/CLA.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/Assets/CLA.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/Assets/CV/Nathan_Busse_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/Assets/CV/Nathan_Busse_CV.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/Assets/HTB.png" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/Assets/HTB.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/Assets/favicon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/Assets/favicon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/micons/fonts/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/micons/fonts/icomoon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/micons/fonts/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/micons/fonts/icomoon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/micons/fonts/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/micons/fonts/icomoon.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/micons/fonts/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/micons/fonts/icomoon.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/micons/micons.css" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/micons/micons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/robotics.css" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/robotics.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/css/vendor.css" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/css/vendor.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/favicon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/favicon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bold-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bold-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bold-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bolditalic-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bolditalic-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bolditalic-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bolditalic-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bolditalic-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bolditalic-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bolditalic-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-bolditalic-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-italic-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-italic-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-italic-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-italic-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-italic-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-italic-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-italic-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-italic-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-regular-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-regular-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-regular-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/lora-regular-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/lora/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-bold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-bold-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-bold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-bold-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-bold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-bold-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-bold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-bold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-bold-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-light-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-light-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-light-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-light-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-light-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-light-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-light-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-light-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-light-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-light-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-medium-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-medium-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-medium-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-medium-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-medium-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-medium-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-medium-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-medium-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-medium-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-medium-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-regular-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-regular-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-regular-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-regular-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-regular-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-regular-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-semibold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-semibold-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-semibold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-semibold-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-semibold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-semibold-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-semibold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-semibold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-semibold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/poppins-semibold-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/fonts/poppins/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/html/youtube_channel.html" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/html/youtube_channel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/images/intro-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/images/intro-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/images/profile-pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/images/profile-pic.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/inc/sendEmail.php" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/inc/sendEmail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nathan_website/Website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/js/jquery-2.1.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/js/jquery-2.1.3.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/js/modernizr.js" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/js/modernizr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/js/pace.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/js/pace.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nathan_website/Website/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/nathan_website/Website/js/plugins.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,22 +16,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2nmNKMEU8yeMgQi7iiZDe5qAblA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "CODE",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;CODE&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
