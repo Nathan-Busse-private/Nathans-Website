@@ -1,2 +1,3 @@
 # Nathans-Website
-Developing my own self holsted website designeed as my careers digital portfolio and blogging  platform.
+## About:
+    Developing my own self-hosted mobile-friendly website designed as my digital career portfolio and blogging platform.
