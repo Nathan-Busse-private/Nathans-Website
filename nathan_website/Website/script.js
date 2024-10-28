@@ -1,10 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
+
     // Initialize Isotope for filtering
     const iso = new Isotope('.portfolio-grid', {
         itemSelector: '.portfolio-item',
         layoutMode: 'fitRows');
-		
-		
 
     // Filter buttons
     const filterButtons = document.querySelectorAll('.filter-btn');
