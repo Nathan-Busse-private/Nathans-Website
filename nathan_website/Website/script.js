@@ -59,8 +59,6 @@ filterButtons.forEach(button => {
         });
     });
 ;	
-
-
     // Smooth Scroll for Navbar Links
     document.querySelectorAll('.nav-links a').forEach(anchor => {
         anchor.add()
