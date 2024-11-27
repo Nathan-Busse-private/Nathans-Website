@@ -4,21 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const isotope = new Isotope('.portfolio-grid', {
         itemSelector: '.portfolio-item',
         layoutMode: 'fitRows',
+    })
     
-    // Filter buttons
-    const: filterButtons = document.querySelectorAll('.filter-btn'),
-    filterButtons.forEach(button => {
-        button.addEventListener('click', function () {
-            const filterValue = this.getAttribute('data-filter');
-            isotope.arrange({ filter: filterValue });
-
-            // Update active button
-            filterButtons.forEach(btn => btn.classList.remove('active'));
-            this.classList.add('active');
-        });
-    }),
-});
-	
    // Initialize Isotope for filtering
    const Isotope = new Isotope('.certifications-grid', {
     itemSelector: '.certifications-item',
