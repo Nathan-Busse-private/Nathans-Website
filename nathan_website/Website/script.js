@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
         layoutMode: 'fitRows',
     
     // Filter buttons
-    const filterButtons = document.querySelectorAll('.filter-btn'),
+    const: filterButtons = document.querySelectorAll('.filter-btn'),
     filterButtons.forEach(button => {
         button.addEventListener('click', function () {
             const filterValue = this.getAttribute('data-filter');
