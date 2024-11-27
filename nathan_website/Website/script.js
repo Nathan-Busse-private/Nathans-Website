@@ -5,8 +5,6 @@ document.addEventListener('DOMContentLoaded', () => {
         itemSelector: '.portfolio-item',
         layoutMode: 'fitRows',
     
-    
-
     // Filter buttons
     const filterButtons = document.querySelectorAll('.filter-btn'),
     filterButtons.forEach(button => {
