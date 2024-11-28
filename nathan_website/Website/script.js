@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-
+/* Service section */
     // Initialize Isotope for filtering
     const iso = new Isotope('.service-grid', {
         itemSelector: '.service-item',
