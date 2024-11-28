@@ -106,7 +106,7 @@ body {
 .portfolio-filters {
     display: flex;
     justify-content: center;
-    gap: 1em;
+    gap: 2em;
     margin-bottom: 2em;
 }
 
@@ -126,18 +126,18 @@ body {
 .portfolio-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1em;
+    gap: 3em;
 }
 
 .portfolio-item img {
     width: 100%;
     display: block;
-    border-radius: 8px;
+    border-radius: 30px;
     transition: transform 0.3s ease;
 }
 
 .portfolio-item img:hover {
-    transform: scale(1.05);
+    transform: scale(1.5);
 }
 
 /* Certifications Section */
@@ -155,11 +155,11 @@ body {
 .certifications-filters {
     display: flex;
     justify-content: center;
-    gap: 1em;
+    gap: 2em;
     margin-bottom: 2em;
 }
 
-.filter-btn {
+.certifications-filter-btn {
     background: #333;
     color: #fff;
     padding: 0.5em 1em;
@@ -168,25 +168,25 @@ body {
     transition: background 0.3s;
 }
 
-.filter-btn.active, .filter-btn:hover {
+.certifications-filter-btn.active, .certifications-filter-btn:hover {
     background: #ff7f50;
 }
 
 .certifications-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1em;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 10em;
 }
 
 .certifications-item img {
     width: 100%;
     display: block;
-    border-radius: 8px;
+    border-radius: 30px;
     transition: transform 0.3s ease;
 }
 
 .certifications-item img:hover {
-    transform: scale(1.05);
+    transform: scale(1.5);
 }
 
 
@@ -233,12 +233,12 @@ body {
 .service-item img {
     width: 100%;
     display: block;
-    border-radius: 8px;
+    border-radius: 30px;
     transition: transform 0.3s ease;
 }
 
 .service-item img:hover {
-    transform: scale(1.05);
+    transform: scale(1.5);
 }
 
 
