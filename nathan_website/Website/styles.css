@@ -17,6 +17,20 @@ body {
     max-width: 1200px;
 }
 
+.portfolio-container {
+    width: 90%;
+    margin: auto;
+    max-width: 1200px;
+}
+
+.certification-container {
+    width: 90%;
+    margin: auto;
+    max-width: 1200px;
+}
+
+
+
 .resume-container {
     width: 90%;
     margin: auto;
