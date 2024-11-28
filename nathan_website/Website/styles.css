@@ -17,6 +17,13 @@ body {
     max-width: 1200px;
 }
 
+.resume-container {
+    width: 90%;
+    margin: auto;
+    max-width: 1200px;
+}
+
+
 /* Navbar */
 .navbar {
     background: #333;
