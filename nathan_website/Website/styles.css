@@ -151,8 +151,8 @@ body {
 
 .portfolio-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 3em;
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    gap: 2em;
 }
 
 .portfolio-item img {
@@ -163,7 +163,7 @@ body {
 }
 
 .portfolio-item img:hover {
-    transform: scale(1.5);
+    transform: scale(1.25);
 }
 
 /* Certifications Section */
@@ -250,7 +250,7 @@ body {
 
 .resume-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
     gap: 1em;
 }
 
@@ -262,7 +262,7 @@ body {
 }
 
 .resune-item img:hover {
-    transform: scale(1.5);
+    transform: scale(1.25);
 }
 
 /* Service Section */
@@ -299,7 +299,7 @@ body {
 
 .service-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
     gap: 1em;
 }
 
@@ -311,7 +311,7 @@ body {
 }
 
 .service-item img:hover {
-    transform: scale(1.5);
+    transform: scale(1.25);
 }
 
 
