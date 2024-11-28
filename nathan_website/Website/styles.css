@@ -218,7 +218,7 @@ body {
 /* Resume Section */
 .resume { 
     padding: 8em  0;
-    background:#444;
+    background:#999999;
     text-align: center;
 }
 
@@ -268,7 +268,7 @@ body {
 /* Service Section */
 .service {
     padding: 8em 0;
-    background: #cfcfcf;
+    background: #888888;
     text-align: center;
 }
 
