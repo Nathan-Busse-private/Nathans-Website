@@ -189,8 +189,55 @@ body {
     transform: scale(1.5);
 }
 
+/* Resume Section */
+.resume { 
+    padding: 8em  0;
+    background:#444;
+    text-align: center;
+}
 
+.resume h2 {
+    font-size: 2.5em;
+    margin-bottom: 1em;
+}
 
+.resume-filters {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    margin-bottom: 2em;
+
+}
+
+.resume-filter-btn {
+    background: #333;
+    color: #fff;
+    padding: 0.5em 1em;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.resume-filter-btn.active, .resume-filter-btn:hover {
+    background: #ff7f50;
+}
+
+.resume-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1em;
+}
+
+.resume-item img {
+    width: 100%;
+    display: block;
+    border-radius: 30px;
+    transition: transform 0.3s ease;
+}
+
+.resune-item img:hover {
+    transform: scale(1.5);
+}
 
 /* Service Section */
 .service {
