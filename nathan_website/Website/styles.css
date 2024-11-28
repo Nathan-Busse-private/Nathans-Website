@@ -43,8 +43,8 @@ body {
 
 
 
-/* Navbar */
-.navbar {
+/* Service Navbar */
+.service-navbar {
     background: #333;
     color: #fff;
     padding: 1em 0;
@@ -54,25 +54,25 @@ body {
     z-index: 1000;
 }
 
-.navbar .logo {
+.service-navbar .logo {
     color: #fff;
     font-size: 1.5em;
 }
 
-.nav-links {
+.service-nav-links {
     list-style: none;
     display: flex;
     gap: 1em;
 }
 
-.nav-links a {
+.service-nav-links a {
     color: #fff;
     text-decoration: none;
     padding: 0.5em 1em;
     transition: background 0.3s;
 }
 
-.nav-links a:hover {
+.service-nav-links a:hover {
     background: #444;
     border-radius: 4px;
 }
