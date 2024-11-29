@@ -127,6 +127,8 @@ body {
 .portfolio h2 {
     font-size: 2.5em;
     margin-bottom: 1em;
+    color: #f3e7e7;
+
 }
 
 .portfolio-filters {
@@ -176,6 +178,8 @@ body {
 .certifications h2 {
     font-size: 2.5em;
     margin-bottom: 1em;
+    color: #f3e7e7;
+
 }
 
 .certifications-filters {
@@ -225,6 +229,8 @@ body {
 .resume h2 {
     font-size: 2.5em;
     margin-bottom: 1em;
+    color: #f3e7e7;
+
 }
 
 .resume-filters {
@@ -275,6 +281,7 @@ body {
 .service h2 {
     font-size: 2.5em;
     margin-bottom: 1em;
+    color: #f3e7e7;
 }
 
 .service-filters {
