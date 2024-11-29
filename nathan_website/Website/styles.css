@@ -84,8 +84,8 @@ body {
 
 /* Hero Section */
 .hero {
-    height: 180vh;
-    background: url('Assets/profile-pic.jpg') no-repeat center center/cover;
+    height: 100vh;
+    background: url('Assets/test.JPG') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
