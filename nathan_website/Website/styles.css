@@ -228,6 +228,9 @@ body {
 
 
 
+
+
+
 /* wakatime Section */
 .wakatime {
     padding: 8em 0;
@@ -309,7 +312,7 @@ body {
 /* Certifications Section */
 .certifications {
     padding: 8em 0;
-    background: #2e2d2d;
+    background: #242323;
     text-align: center;
 }
 
@@ -361,12 +364,10 @@ body {
 
 
 
-
-
 /* Portfolio Section */
 .portfolio {
     padding: 8em 0;
-    background:#242323;
+    background:#2e2d2d;
     text-align: center;
 }
 
