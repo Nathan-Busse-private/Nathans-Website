@@ -17,6 +17,13 @@ body {
     max-width: 1200px;
 }
 
+.about-container {
+    width: 90%;
+    margin: auto;
+    max-width: 1200px;
+}
+
+
 .wakatime-container {
     width: 90%;
     margin: auto;
@@ -47,6 +54,10 @@ body {
     margin: auto;
     max-width: 1200px;
 }
+
+
+
+
 
 
 
@@ -84,10 +95,22 @@ body {
     border-radius: 4px;
 }
 
+
+
+
+
+
+
 /* Menu toggle for mobile */
 .menu-toggle {
     display: none;
 }
+
+
+
+
+
+
 
 /* Hero Section */
 .hero {
@@ -124,10 +147,91 @@ body {
     background: #ff6347;
 }
 
+
+
+
+
+
+
+
+/* about Section */
+.about {
+    padding: 8em 0;
+    background:#111111;
+    text-align: center;
+}
+
+.about h2 {
+    font-size: 2.5em;
+    margin-bottom: 0em;
+    color: #f3e7e7;
+
+}
+
+.about h3 {
+    font-size: 1.5em;
+    margin-bottom: 1.5em;
+    color: #f3e7e7;
+
+}
+
+.about h4 {
+    font-size: 2.5em;
+    margin-bottom: 1.5em;
+    color: #f3e7e7;
+
+}
+
+.about h5 {
+    font-size: 2.5em;
+    margin-bottom: 1.5em;
+    color: #f3e7e7;
+
+}
+
+.about-filters {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    margin-bottom: 2em;
+}
+
+.filter-btn {
+    background: #333;
+    color: #fff;
+    padding: 0.5em 1em;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.filter-btn.active, .filter-btn:hover {
+    background: #ff7f50;
+}
+
+.about-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    gap: 2em;
+}
+
+.about-item img {
+    width: 100%;
+    display: block;
+    border-radius: 30px;
+    transition: transform 0.3s ease;
+}
+
+.about-item img:hover {
+    transform: scale(1.25);
+}
+
+
+
 /* wakatime Section */
 .wakatime {
     padding: 8em 0;
-    background:#111111;
+    background:#222222;
     text-align: center;
 }
 
@@ -158,9 +262,6 @@ body {
     color: #f3e7e7;
 
 }
-
-
-
 
 .wakatime-filters {
     display: flex;
@@ -199,56 +300,9 @@ body {
     transform: scale(1.25);
 }
 
-/* Portfolio Section */
-.portfolio {
-    padding: 8em 0;
-    background:#242323;
-    text-align: center;
-}
 
-.portfolio h2 {
-    font-size: 2.5em;
-    margin-bottom: 1em;
-    color: #f3e7e7;
 
-}
 
-.portfolio-filters {
-    display: flex;
-    justify-content: center;
-    gap: 2em;
-    margin-bottom: 2em;
-}
-
-.filter-btn {
-    background: #333;
-    color: #fff;
-    padding: 0.5em 1em;
-    border: none;
-    cursor: pointer;
-    transition: background 0.3s;
-}
-
-.filter-btn.active, .filter-btn:hover {
-    background: #ff7f50;
-}
-
-.portfolio-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
-    gap: 2em;
-}
-
-.portfolio-item img {
-    width: 100%;
-    display: block;
-    border-radius: 30px;
-    transition: transform 0.3s ease;
-}
-
-.portfolio-item img:hover {
-    transform: scale(1.25);
-}
 
 
 
@@ -303,6 +357,67 @@ body {
     transform: scale(1.5);
 }
 
+
+
+
+
+
+
+/* Portfolio Section */
+.portfolio {
+    padding: 8em 0;
+    background:#242323;
+    text-align: center;
+}
+
+.portfolio h2 {
+    font-size: 2.5em;
+    margin-bottom: 1em;
+    color: #f3e7e7;
+
+}
+
+.portfolio-filters {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    margin-bottom: 2em;
+}
+
+.filter-btn {
+    background: #333;
+    color: #fff;
+    padding: 0.5em 1em;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.filter-btn.active, .filter-btn:hover {
+    background: #ff7f50;
+}
+
+.portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    gap: 2em;
+}
+
+.portfolio-item img {
+    width: 100%;
+    display: block;
+    border-radius: 30px;
+    transition: transform 0.3s ease;
+}
+
+.portfolio-item img:hover {
+    transform: scale(1.25);
+}
+
+
+
+
+
 /* Resume Section */
 .resume { 
     padding: 8em  0;
@@ -355,6 +470,11 @@ body {
     transform: scale(1.25);
 }
 
+
+
+
+
+
 /* Service Section */
 .service {
     padding: 8em 0;
@@ -406,6 +526,12 @@ body {
 }
 
 
+
+
+
+
+
+
 /* Contact Form */
 .contact-form {
     display: flex;
@@ -434,37 +560,7 @@ body {
     background: #ff6347;
 }
 
-/*
 
-About form.
-
-*/
-.about-form {
-    display: flex;
-    flex-direction: column;
-    gap: 1em;
-    max-width: 500px;
-    margin: auto;
-}
-
-.about-form input, .contact-form textarea {
-    padding: 0.75em;
-    border: none;
-    border-radius: 4px;
-}
-
-.about-form button {
-    background: #ff7f50;
-    color: hsl(0, 0%, 53%);
-    padding: 0.75em;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-.about-form button:hover {
-    background: #ff6347;
-}
 
 
 
@@ -476,6 +572,10 @@ footer {
     color: #fff;
     font-size: 0.9em;
 }
+
+
+
+
 
 /* Responsive Design */
 @media (max-width: 768px) {
@@ -514,6 +614,11 @@ footer {
         width: 100%;
     }
 }
+
+
+
+
+
 
 /* Animations */
 @keyframes fadeIn {
