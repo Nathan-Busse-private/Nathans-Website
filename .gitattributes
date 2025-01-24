@@ -1,3 +1,15 @@
 *.iso filter=lfs diff=lfs merge=lfs -text
 *.PUP filter=lfs diff=lfs merge=lfs -text
 *.PKG filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.svg filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
+
+
+
+
+
+
