@@ -303,28 +303,28 @@ body {
     transform: scale(1.25);
 }
 
-/* Certifications Section */
-.certifications {
+/* 2025 Certifications Section */
+.certifications2025 {
     padding: 8em 0;
     background: #242323;
     text-align: center;
 }
 
-.certifications h2 {
+.certifications2025 h2 {
     font-size: 2.5em;
     margin-bottom: 1em;
     color: #f3e7e7;
 
 }
 
-.certifications-filters {
+.certifications2025-filters {
     display: flex;
     justify-content: center;
     gap: 2em;
     margin-bottom: 2em;
 }
 
-.certifications-filter-btn {
+.certifications2025-filter-btn {
     background: #333;
     color: #fff;
     padding: 0.5em 1em;
@@ -333,17 +333,17 @@ body {
     transition: background 0.3s;
 }
 
-.certifications-filter-btn.active, .certifications-filter-btn:hover {
+.certifications2025-filter-btn.active, .certifications-filter-btn:hover {
     background: #ff7f50;
 }
 
-.certifications-grid {
+.certifications2025-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
     gap: 10em;
 }
 
-.certifications-item img {
+.certifications2025-item img {
     width: 100%;
     display: block;
     border-radius: 30px;
@@ -353,6 +353,58 @@ body {
 .certifications-item img:hover {
     transform: scale(1.5);
 }
+
+/* 2026 Certifications Section */
+.certifications2026 {
+    padding: 8em 0;
+    background: #242323;
+    text-align: center;
+}
+
+.certifications2026 h2 {
+    font-size: 2.5em;
+    margin-bottom: 1em;
+    color: #f3e7e7;
+
+}
+
+.certifications2026-filters {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    margin-bottom: 2em;
+}
+
+.certifications2026-filter-btn {
+    background: #333;
+    color: #fff;
+    padding: 0.5em 1em;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.certifications2026-filter-btn.active, .certifications-filter-btn:hover {
+    background: #ff7f50;
+}
+
+.certifications2026-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 10em;
+}
+
+.certifications2026-item img {
+    width: 100%;
+    display: block;
+    border-radius: 30px;
+    transition: transform 0.3s ease;
+}
+
+.certifications2026-item img:hover {
+    transform: scale(1.5);
+}
+
 
 
 
