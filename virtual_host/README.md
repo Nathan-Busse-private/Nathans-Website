@@ -1,1 +1,0 @@
-A virtual_host for my website for cross-platform testing using a localhost connection for security and simplicity.
