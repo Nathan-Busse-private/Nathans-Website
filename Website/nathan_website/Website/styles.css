@@ -305,9 +305,11 @@ body {
 
 /* 2025 Certifications Section */
 .certifications2025 {
-    padding: 8em 0;
-    background: #242323;
-    text-align: center;
+    background:#222222;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    margin-bottom: 2em;
 }
 
 .certifications2025 h2 {
@@ -325,15 +327,15 @@ body {
 }
 
 .certifications2025-filter-btn {
-    background: #333;
-    color: #fff;
+    background: #111111;
+    color: #111111;
     padding: 0.5em 1em;
     border: none;
     cursor: pointer;
     transition: background 0.3s;
 }
 
-.certifications2025-filter-btn.active, .certifications-filter-btn:hover {
+.certifications2025-filter-btn.active, .certifications2025-filter-btn:hover {
     background: #ff7f50;
 }
 
@@ -350,15 +352,17 @@ body {
     transition: transform 0.3s ease;
 }
 
-.certifications-item img:hover {
+.certifications2025-item img:hover {
     transform: scale(1.5);
 }
 
 /* 2026 Certifications Section */
 .certifications2026 {
-    padding: 8em 0;
-    background: #242323;
-    text-align: center;
+    background:#222222;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    margin-bottom: 2em;
 }
 
 .certifications2026 h2 {
@@ -376,15 +380,15 @@ body {
 }
 
 .certifications2026-filter-btn {
-    background: #333;
-    color: #fff;
+    background: #111111;
+    color: #111111;
     padding: 0.5em 1em;
     border: none;
     cursor: pointer;
     transition: background 0.3s;
 }
 
-.certifications2026-filter-btn.active, .certifications-filter-btn:hover {
+.certifications2026-filter-btn.active, .certifications2026-filter-btn:hover {
     background: #ff7f50;
 }
 
